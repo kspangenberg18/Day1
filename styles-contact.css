@@ -74,7 +74,7 @@ html, body {
 	height: auto;
 	padding: 5%;
     margin: 100px auto;
- 	background: white(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
+ 	background: black(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 	border: 7px solid black;
 	
